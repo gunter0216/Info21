@@ -1,0 +1,8 @@
+ID,peer,recommendedpeer
+1,wex,exort
+2,dhammer,wloyd
+3,mcarb,wex
+4,wex,quas
+5,quas,mcarb
+6,wex,mcarb
+7,dhammer,mcarb

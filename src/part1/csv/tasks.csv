@@ -1,0 +1,10 @@
+title,parenttask,maxxp
+s21_SimpleBashUtils,,250
+s21_string+,s21_SimpleBashUtils,500
+s21_math,s21_SimpleBashUtils,300
+s21_decimal,s21_SimpleBashUtils,350
+s21_matrix,s21_decimal,200
+s21_SmartCalc_v1.0,s21_matrix,500
+A_Maze,s21_matrix,300
+A_SimpleNavigator,A_Maze,400
+A_Parallels,A_SimpleNavigator,300
